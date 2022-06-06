@@ -6,6 +6,7 @@
 - 📫 How to reach me Bassantsamer37@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bassantsamerr&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassantsamerr&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 
 
