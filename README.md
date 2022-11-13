@@ -1,7 +1,7 @@
 ### Hi, I'm Bassant Samer 👋
 
 
-- 🔭 I’m currently an Android Software Engineer Intern @ Digital Factory Banque Misr.
+- 🔭 I’m senior Computer Science Student at Faculty of Computers and Artificial Intelligence Cairo University.
 - 🌱 I’m currently intersted/learning Software Archeticture and Testing.
 - 📫 How to reach me Bassantsamer37@gmail.com
 
