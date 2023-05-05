@@ -1,6 +1,6 @@
 ### Hi, I'm Bassant Samer 👋
 [![Linkedin Badge](https://img.shields.io/badge/-bassantsamer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassant-samer-291058207/)](https://www.linkedin.com/in/bassant-samer-291058207/)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=bassantsamerr.bassantsamerr)
 
 - 🔭 I’m senior Computer Science Student at Faculty of Computers and Artificial Intelligence Cairo University.
 - 🌱 I’m currently intersted/learning Software Archeticture and Testing.
