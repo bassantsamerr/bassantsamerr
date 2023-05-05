@@ -1,5 +1,5 @@
 ### Hi, I'm Bassant Samer 👋
-[![Linkedin Badge](https://img.shields.io/badge/-kreemmorsy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassant-samer-291058207/)](https://www.linkedin.com/in/bassant-samer-291058207/)
+[![Linkedin Badge](https://img.shields.io/badge/-bassantsamer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassant-samer-291058207/)](https://www.linkedin.com/in/bassant-samer-291058207/)
 
 
 - 🔭 I’m senior Computer Science Student at Faculty of Computers and Artificial Intelligence Cairo University.
